@@ -1,1 +1,10 @@
-.contact {}
+@use '../abstracts/variables' as var;
+
+.logo {
+  text-align: center;
+  border-bottom: solid 2px;
+  img {
+    width: 20%;
+    padding-top: 1em;
+  }
+}

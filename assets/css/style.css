@@ -64,4 +64,13 @@ ul {
   text-decoration-color: #0198fe;
 }
 
+.logo {
+  text-align: center;
+  border-bottom: solid 2px;
+}
+.logo img {
+  width: 20%;
+  padding-top: 1em;
+}
+
 /*# sourceMappingURL=style.css.map */
