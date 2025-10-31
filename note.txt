@@ -1,0 +1,20 @@
+<header>
+        <div>
+            LOGO
+        </div>
+        <div>
+            <nav>
+                <ul>
+                    <li>Blog</li>
+                    <li>Emplois</li>
+                    <li>Contact</li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section>
+            VIDEO
+        </section>
+    </main>
